@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @dhritzz
 - Pacar Gwehj Dhany
+- Penyuka Loli
