@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dhritzz
-- Pacar Gwehj Dhany
-- Penyuka Loli
+- My GirlFriend Is Mahiru
+- Just Love Watching Loli (But Dont Call Me A pedophile)
