@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dhritzz
-- My GirlFriend Is Mahiru
-- Just Love Watching Loli (But Dont Call Me A pedophile)
+- I am from Indonesia
+- Just Sleeping
