@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @dhritzz
 - I am from Indonesia
 - Just Sleeping
+- visitor: <img align="center" height="30px" src="https://profile-counter.glitch.me/dhritzz/count.svg" />
