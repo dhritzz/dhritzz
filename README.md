@@ -14,5 +14,8 @@
   </a>
 </div>
 </section>
-
-![Snake animation](https://github.com/starlitnightsky/dhritzz/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/starlitnightsky">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhritzz&title=MultiLanguage,Commits,Stars,Followers,Organizations,Issues,PullRequest" />
+  </a>
+</div>
