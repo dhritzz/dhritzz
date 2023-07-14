@@ -14,3 +14,5 @@
   </a>
 </div>
 </section>
+<a href="https://github.com/starlitnightsky">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhritzz&show_icons=true&theme=dracula&include_all_commits=true" />
