@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dhritzz
-- I am from Indonesia
-- Just Sleeping
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+i+am+Pushy;i+am+from+indonesia;also+i+am+Junior+Highschool+student;by+the+way+i+love+computer+%3A3)](https://git.io/typing-svg)
 - visitor: <img align="center" height="30px" src="https://profile-counter.glitch.me/dhritzz/count.svg" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dhritzz&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
